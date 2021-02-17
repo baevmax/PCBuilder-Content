@@ -26,10 +26,10 @@
         "isSelected": true
       },
       {
-        "id": "intelcorei9",
-        "title": "Intel Core i9",
+        "id": "intelcorei7",
+        "title": "Intel Core i7",
         "icon": {
-          "52x52": "https://www.techinn.com/f/13743/137434570_2/intel-core-i9-9900k-3.6ghz.jpg"
+          "52x52": "https://raw.githubusercontent.com/baevmax/PCBuilder-Content/main/Processors/orig.webp"
         },
         "price": "400 ₽",
         "isSelected": true
