@@ -1,53 +1,53 @@
 {
   "status": "ok",
   "result": {
-    "title": "Сделайте объявление заметнее на 7 дней",
+    "title": "Выберите процессор",
     "actionTitle": "Продолжить без изменений",
     "selectedActionTitle": "Выбрать",
     "list": [
       {
-        "id": "xl",
-        "title": "XL объявление",
-        "description": "Пользователи смогут посмотреть фотографии, описание и телефон прямо из результатов поиска.",
+        "id": "amdryzen5",
+        "title": "AMD ryzen",
+        "description": "Два ядра, два гига.",
         "icon": {
-          "52x52": "https://www.avito.ru/s/common/components/monetization/icons/apps/vas-xl-52.png"
+          "52x52": "https://www.regard.ru/photo/shop/282525_1.jpg"
         },
-        "price": "356 ₽",
+        "price": "69 ₽",
         "isSelected": true
       },
       {
-        "id": "highlight",
-        "title": "Выделение",
-        "description": "Яркий цвет не даст затеряться среди других объявлений.",
+        "id": "amdthreadripper",
+        "title": "AMD threadripper",
+        "description": "Игровая видеокарта.",
         "icon": {
-          "52x52": "https://www.avito.ru/s/common/components/monetization/icons/apps/vas-highlight-52.png"
+          "52x52": "https://avatars.mds.yandex.net/get-mpic/1478677/img_id2371043253981203577.jpeg/orig"
         },
-        "price": "299 ₽",
+        "price": "999999 ₽",
         "isSelected": true
       },
       {
-        "id": "x10_1",
-        "title": "До 10 раз больше просмотров на 1 день",
+        "id": "intelcorei9",
+        "title": "Intel Core i9",
         "icon": {
-          "52x52": "https://www.avito.ru/s/common/components/monetization/icons/apps/vas-x10_1-52.png"
+          "52x52": "https://www.techinn.com/f/13743/137434570_2/intel-core-i9-9900k-3.6ghz.jpg"
         },
         "price": "400 ₽",
-        "isSelected": false
+        "isSelected": true
       },
       {
-        "id": "x5_1",
-        "title": "До 5 раз больше просмотров на 1 день",
+        "id": "intelcorei7",
+        "title": "intelcorei7",
         "icon": {
-          "52x52": "https://www.avito.ru/s/common/components/monetization/icons/apps/vas-x5_1-52.png"
+          "52x52": "https://www.techinn.com/f/13743/137434570_2/intel-core-i9-9900k-3.6ghz.jpg"
         },
         "price": "230 ₽",
         "isSelected": false
       },
       {
-        "id": "x2_1",
-        "title": "До 2 раз больше просмотров на 1 день",
+        "id": "intelcorei5",
+        "title": "intelcorei5",
         "icon": {
-          "52x52": "https://www.avito.ru/s/common/components/monetization/icons/apps/vas-x2_1-52.png"
+          "52x52": "https://www.techinn.com/f/13743/137434570_2/intel-core-i9-9900k-3.6ghz.jpg"
         },
         "price": "100 ₽",
         "isSelected": false
